@@ -9,7 +9,7 @@ Soy una **analista de datos en formación** con experiencia en gestión administ
 - 🐍 Manejo **Python** y **SQL** para análisis y procesamiento de datos.
 - 📈 Experiencia con **Pandas, NumPy** y análisis exploratorio de datos.
 - 🖥️ Conocimientos en **expresiones regulares** y **web scraping**.
-- 📊 Próximamente aprenderé **Power BI** y visualización de datos.
+- 📊 Próximamente aprenderé **Looker**, **Power BI** y visualización de datos.
 - 🏆 Experiencia en gestión y organización en sectores administrativos y de atención al cliente.
 
 ## 🚀 Tecnologías y Herramientas
