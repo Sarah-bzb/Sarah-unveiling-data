@@ -35,6 +35,6 @@ En este repositorio publicaré diferentes tipos de proyectos:
 ## 📫 Contacto
 Si quieres saber más sobre mi trabajo o colaborar en algún proyecto:
 - 📧 Email: bouzoubaasarah@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/sarah-bouzoubaa-54417b115
+- 💼 LinkedIn: www.linkedin.com/in/sarah-bouzoubaa-tellal-54417b115
 
 ¡Gracias por visitar mi perfil! 😊
