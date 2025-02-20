@@ -25,9 +25,16 @@ Exploración y procesamiento de datos de campeonatos europeos para identificar t
 🔹 **Extracción y limpieza de datos con Web Scraping**  
 Trabajo académico donde utilicé **expresiones regulares** y scraping para recopilar información de competiciones deportivas.
 
+## 📂 Proyectos en este repositorio
+En este repositorio publicaré diferentes tipos de proyectos:
+
+1. **Académicos** - Trabajos realizados durante mi formación en análisis de datos.
+2. **Personales** - Proyectos propios para mejorar mis habilidades y explorar nuevas técnicas.
+3. **Laborales/Empresariales** - Una vez inicie en el mundo profesional, compartiré aquí algunos proyectos relevantes.
+
 ## 📫 Contacto
 Si quieres saber más sobre mi trabajo o colaborar en algún proyecto:
 - 📧 Email: bouzoubaasarah@gmail.com
-- 💼 [LinkedIn]: www.linkedin.com/in/sarah-bouzoubaa-54417b115
+- 💼 LinkedIn: www.linkedin.com/in/sarah-bouzoubaa-54417b115
 
 ¡Gracias por visitar mi perfil! 😊
